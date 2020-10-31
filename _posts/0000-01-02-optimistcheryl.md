@@ -2,6 +2,6 @@
 layout:slide
 title:"Welcome to our second slide!"
 ---
-Hi from Cheryl!
+Something new!
 
 Use the left arrow to go back.
